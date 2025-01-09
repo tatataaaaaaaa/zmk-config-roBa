@@ -78,10 +78,10 @@
 
         FUNCTION {
             bindings = <
-&trans  &trans  &trans  &trans  &trans                      &kp RG(RIGHT)         &kp RC(LEFT)  &kp RC(UP_ARROW)  &kp RC(RIGHT)      &kp C_VOLUME_UP
-&trans  &trans  &trans  &trans  &trans  &trans      &trans  &kp LG(LEFT)          &kp F7        &kp UP_ARROW      &kp RA(RG(RIGHT))  &kp C_VOLUME_DOWN
-&trans  &trans  &trans  &trans  &trans  &trans      &trans  &kp RS(RG(NUMBER_4))  &kp LEFT      &kp DOWN          &kp RIGHT          &kp RS(RG(N5))
-&trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans                                                                   &trans
+&trans  &trans  &trans  &trans  &trans                      &kp RG(RIGHT)         &kp RC(LEFT)      &kp RC(UP_ARROW)  &kp RC(RIGHT)      &kp C_VOLUME_UP
+&trans  &trans  &trans  &trans  &trans  &trans      &trans  &kp LG(LEFT)          &kp RG(RA(LEFT))  &kp UP_ARROW      &kp RA(RG(RIGHT))  &kp C_VOLUME_DOWN
+&trans  &trans  &trans  &trans  &trans  &trans      &trans  &kp RS(RG(NUMBER_4))  &kp LEFT          &kp DOWN          &kp RIGHT          &kp RS(RG(N5))
+&trans  &trans  &trans  &trans  &trans  &trans      &trans  &trans                                                                       &trans
             >;
         };
 
